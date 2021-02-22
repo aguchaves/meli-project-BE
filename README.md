@@ -21,17 +21,17 @@ For development, you will only need Node.js and NPM, installed in your environem
 
 ## Install Project
 
-$ git clone https://github.com/aguchaves/meli-project-BE.git
+`$ git clone https://github.com/aguchaves/meli-project-BE.git`
 
-$ npm install
+`$ npm install`
 
 ## Run Project
 
-$ node index.js 
+`$ node index.js`
 
 Or if you want to run and make changes while running
 
-$ npx nodemon index.js
+`$ npx nodemon index.js`
 
 This project is configured to run in port :8000 so you can run React FE project in port :3000 at the same time.
 
