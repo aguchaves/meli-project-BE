@@ -4,12 +4,15 @@ This project was created in order to work toghether with FrontEnd project **meli
 [Repository](https://github.com/aguchaves/meli-project)
 
 **mapItems.js**
-Function created to map and return a list of products, using MercadoLibre api
+
+Function created to map and return a list of products, using MercadoLibre api.
 
 **mapDetail.js**
-Function created to map and return details of a particular item from a list of products of MercadoLibre api
+
+Function created to map and return details of a particular item from a list of products of MercadoLibre api.
 
 **index.js**
+
 This is the root file, where the middlewares are declared and the router to manage items requests.
 
 ## Requirements
